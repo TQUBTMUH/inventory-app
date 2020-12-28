@@ -1,0 +1,1 @@
+heroku ps:restart --app dimension-dev
