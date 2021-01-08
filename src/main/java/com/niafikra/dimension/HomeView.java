@@ -25,5 +25,4 @@ public class HomeView extends VVerticalLayout {
         add(new H2("Hello from Dimension Team"));
         setDefaultHorizontalComponentAlignment(Alignment.CENTER);
     }
-
 }
